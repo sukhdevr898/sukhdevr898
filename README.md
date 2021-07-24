@@ -24,7 +24,7 @@ You can find me on <br>
 [2]: https://m.facebook.com/sukhdevr898/
 ### THANK YOU 😘
 ### ABOUT ME 
-<a href="https://m.facebook.com/sukhdevr898 "> <h2> FACEBOOK </h2></a><br>
+<p><a href="https://m.facebook.com/sukhdevr898 ">  FACEBOOK </a></p><br>
 <a href="https://m.me/sukhdevr898" > <h2> MESSENGER </h2></a><br>
 <a href="https://m.instagram.com/sukhdevr898 "> <h2> INSTAGRAM </h2></a><br>
 <a href="https://sukhdevr898.site123.me "> <h2> WEBSITE </h2></a><br>
